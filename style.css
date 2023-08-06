@@ -166,14 +166,7 @@ nav li a:hover {
 }
 
 @media (max-width:750px) {
-  .pimg1 {
-    background-image: url(pexels-eberhard-grossgasteiger-691668.jpg);
-  }
-
-  .pimg4 {
-    background-image: url(image1.png);
-    min-height: 1100px;
-  }
+ 
 
   .textBg {
     padding: 20px;
